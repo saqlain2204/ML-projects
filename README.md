@@ -1,1 +1,1 @@
-# ML-practices
+# ML-practice projects
