@@ -1,4 +1,3 @@
-Sure, here's an updated README file template with some emojis:
 
 # 🤖 Machine Learning Projects
 
