@@ -5,7 +5,8 @@ This repository contains my machine learning projects, which I've completed as p
 
 ## 📂 Projects
 
-- [Project 1: House cost prediction](./house-cost-prediction/): Brief description of the project.
+- [Project 1: House cost prediction](./house-cost-prediction/)
+- [Project 2: Employee Salary prediction](./Employee%20salary%20prediction-linear%20regression%20with%20multi%20variable/)
 
 ## 🚀 Getting Started
 
