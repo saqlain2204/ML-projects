@@ -7,6 +7,7 @@ This repository contains my machine learning projects, which I've completed as p
 
 - [Project 1: House cost prediction](./house-cost-prediction/)
 - [Project 2: Employee Salary prediction](./Employee%20salary%20prediction-linear%20regression%20with%20multi%20variable/)
+- [Project 3: Employee Retention Analysis](./Employee_Retention_Analysis_logistic-regression/)
 
 ## 🚀 Getting Started
 
