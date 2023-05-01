@@ -8,8 +8,8 @@ This repository contains my machine learning projects, which I've completed as p
 - [Project 1: House cost prediction](./house-cost-prediction/)
 - [Project 2: Employee Salary prediction](./Employee%20salary%20prediction-linear%20regression%20with%20multi%20variable/)
 - [Project 3: Employee Retention Analysis](./Employee_Retention_Analysis_logistic-regression/)
-- [Project 4: Identify Handwritten Numbers](multiclass classification-logistic regression/identifying handwritten digits)
-- [Project 5: Iris flower species identification](multiclass classification-logistic regression/iris flower)
+- [Project 4: Identify Handwritten Numbers](./multiclass%20classification-logistic%20regression/identifying%20handwritten%20digits)
+- [Project 5: Iris flower species identification](./multiclass%20classification-logistic%20regression/iris%20flower)
 
 
 ## 🚀 Getting Started
