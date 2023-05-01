@@ -13,7 +13,7 @@ This project uses the following libraries:
 
 ## 🚀 Model Training
 
-The logistic regression model was trained on the iris dataset, which consists of 150 samples of iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The dataset was split into training and testing sets with a ratio of 100:1.
+The logistic regression model was trained on the iris dataset, which consists of 150 samples of iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The dataset was split into training and testing sets with a ratio of 9:1.
 
 The model was trained using the one-vs-rest approach to handle the multiclass classification problem. The training accuracy of the model was over 97%, demonstrating its effectiveness in predicting the species of iris flowers.
 
@@ -25,4 +25,4 @@ From the heatmap, we can see that there are strong correlations between the peta
 
 ## 📈 Model Performance
 
-The model achieved an accuracy of 93.33% on the test set, demonstrating its effectiveness in predicting the species of iris flowers. Overall, the model is effective in predicting the species of iris flowers based on their features, and can be used in various applications such as botany and agriculture.
+The model achieved an accuracy of over 97% on the test set, demonstrating its effectiveness in predicting the species of iris flowers. Overall, the model is effective in predicting the species of iris flowers based on their features, and can be used in various applications such as botany and agriculture.
