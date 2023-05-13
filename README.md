@@ -10,6 +10,7 @@ This repository contains my machine learning projects, which I've completed as p
 - [Project 3: Employee Retention Analysis](./Employee_Retention_Analysis_logistic-regression/)
 - [Project 4: Identify Handwritten Numbers](./multiclass%20classification-logistic%20regression/identifying%20handwritten%20digits)
 - [Project 5: Iris flower species identification](./multiclass%20classification-logistic%20regression/iris%20flower)
+- [Project 6: Titanic Survival Prediction](./Titanic%20survival%20prediction%20using%20decision%20tree)
 
 
 ## 🚀 Getting Started
