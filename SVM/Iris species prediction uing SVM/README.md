@@ -1,4 +1,4 @@
-# 🌺 Iris Species Classification using Support Vector Machines (SVM) 🌺
+# 🌺 Iris Species Classification using Support Vector Machines (SVM) 
 
 This machine learning project aims to predict the species of iris flowers based on four features: sepal length, sepal width, petal length, and petal width. The dataset used in this project is taken from the scikit-learn library.
 
