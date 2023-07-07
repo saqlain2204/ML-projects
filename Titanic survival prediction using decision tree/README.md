@@ -4,6 +4,10 @@
 
 This project is a simple implementation of a decision tree model to predict the survival of a person in the Titanic accident based on his/her age, passenger class, number of parents/children aboard, and fare.
 
+## Hosted Here
+
+[Link](https://titanicsurvival.streamlit.app/)
+
 ## 📚 Libraries Used
 
 This project uses the following libraries:
