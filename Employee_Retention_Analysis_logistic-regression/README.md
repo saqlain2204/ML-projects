@@ -6,6 +6,9 @@ This data science project uses logistic regression to predict employee retention
 
 The main objective of this project is to analyze the factors that affect employee retention and to build a predictive model using logistic regression. The project uses a dataset that includes information on employee salary, satisfaction, promotion, work accident, and average monthly working hours. The project begins by exploring the data and visualizing the relationships between the variables using bar graphs. 
 
+## Hosted Here 
+[Link](https://hr-prediction.streamlit.app/)
+
 ## 🛠️ Tools and Techniques 
 
 The project is implemented using Python programming language and popular data science libraries such as:
