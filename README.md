@@ -12,7 +12,8 @@ This repository contains my machine learning projects, which I've completed as p
 - [Project 5: Iris flower species identification](./multiclass%20classification-logistic%20regression/iris%20flower)
 - [Project 6: Titanic Survival Prediction](./Titanic%20survival%20prediction%20using%20decision%20tree)
 - [Project 7: Iris flower species identification USING SVM](./SVM/Iris%20species%20prediction%20uing%20SVM)
-
+- [Project 8: Movie Recommendation System](./Movie_recommendation_system)
+  
 ## 🚀 Getting Started
 
 To run any of the projects in this repository, follow the instructions provided in the respective project's README file. Each project folder contains the necessary code and any required data files.
