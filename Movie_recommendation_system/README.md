@@ -2,6 +2,9 @@
 
 🎥 This project is a movie recommendation system that suggests movies based on user preferences and provides a user-friendly interface using Streamlit.
 
+## Hosted Here
+[Link](https://movie-recommendation.streamlit.app/)
+
 ## Overview
 
 The Movie Recommendation System is designed to help users discover new movies based on their preferences. It utilizes collaborative filtering techniques to generate recommendations by analyzing user behavior and similarities between users.
