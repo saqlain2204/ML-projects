@@ -11,9 +11,6 @@ The Movie Recommendation System is designed to help users discover new movies ba
 - **User Input:** Users can provide their movie preferences by rating movies they have watched.
 - **Recommendation Generation:** The system generates movie recommendations based on user preferences using collaborative filtering algorithms.
 - **User Interface:** The user interface is implemented using Streamlit, providing an interactive and intuitive experience.
-- **Movie Details:** Users can view detailed information about recommended movies, such as synopsis, genre, and ratings.
-- **Search Functionality:** Users can search for specific movies and view their details.
-- **Personalized Recommendations:** The system adapts and improves recommendations as users rate more movies.
 
 ## Technologies Used
 
